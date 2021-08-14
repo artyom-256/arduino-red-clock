@@ -1,6 +1,6 @@
-# Aduino Red Clock
+# Arduino Red Clock
 
-Implementation of clocks using an Arduino, a real time module DS3231 and a 4-digit 7-segment display.
+Implementation of a clock using an Arduino, a real time module DS3231 and a 4-digit 7-segment display.
 
 ![Image](image.jpg)
 
